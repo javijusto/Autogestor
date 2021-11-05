@@ -1,0 +1,39 @@
+{
+   "inventario": [
+      {
+         "Nombre": "Coca-Cola",
+         "Precio": 1,
+         "Stock": 77
+      },
+      {
+         "Nombre": "Kas Naranja",
+         "Precio": 1,
+         "Stock": 84
+      },
+      {
+         "Nombre": "Kas Lim\u00f3n",
+         "Precio": 1,
+         "Stock": 84
+      },
+      {
+         "Nombre": "Coca-cola",
+         "Precio": 1,
+         "Stock": 84
+      },
+      {
+         "Nombre": "Estrella Galicia",
+         "Precio": 1.5,
+         "Stock": 108
+      },
+      {
+         "Nombre": "Agua",
+         "Precio": 1,
+         "Stock": 83
+      },
+      {
+         "Nombre": "Copa",
+         "Precio": 4,
+         "Stock": 78
+      }
+   ]
+}
